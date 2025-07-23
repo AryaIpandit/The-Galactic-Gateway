@@ -1,0 +1,6 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-uk"
+title = "Arya's Astrophysics Blog"
+theme = "tailbliss-main"
+# Optional customization:
+paginate = 5
