@@ -1,3 +1,3 @@
-[submodule "themes/TailBliss"]
-	path = themes/tailbliss
+[submodule "TailBliss"]
+	path = TailBliss
 	url = https://github.com/AryaIpandit/The-Galactic-Gateway.git
